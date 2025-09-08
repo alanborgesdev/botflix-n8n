@@ -30,7 +30,7 @@
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/botflix.git
+git clone https://github.com/alanborgesdev/botflix-n8n
 
 # 2. Acesse a pasta
 cd botflix
