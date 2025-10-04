@@ -24,7 +24,9 @@ async function handleSearch() {
 		return;
 	}
 
-	const response = await fetch("https://borgesplay.app.n8n.cloud/webhook/botflix", {
+    const webHookUrl = config.webHookUrl;
+
+	const response = await fetch(webHookUrl, {
 		method: "POST",
 		headers: {
 			"Content-Type": "application/json",
