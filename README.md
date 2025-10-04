@@ -11,7 +11,7 @@
 ### ✨ Funcionalidades
 
 - Recomendação de filmes baseada em texto livre (humor, gênero, etc.).
-- Exibição do filme recomendado com pôster, título, sinopse e avaliação.
+- Exibição detalhada do filme recomendado, contendo pôster, título, sinopse e classificação.
 - Interface limpa e animada para uma experiência de usuário agradável.
 - Busca acionada por clique em um botão ou pela tecla "Enter".
 
