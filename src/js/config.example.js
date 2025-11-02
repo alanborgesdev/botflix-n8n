@@ -1,3 +1,3 @@
 const config = {
-    webHookUrl: 'SUA_URL_N8N_WEBHOOK_AQUI'
+    webHookUrl: 'http://167.234.226.176:5678/webhook/botflix'
 };
